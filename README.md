@@ -1,6 +1,6 @@
-# 💻 Projets de Programmation
+#  Projets de Programmation
 
-## 📌 Présentation générale
+##  Présentation générale
 Ce dépôt regroupe une **série de projets de programmation** réalisés dans le cadre de ma formation et de mon apprentissage personnel en informatique, systèmes embarqués, IoT et cybersécurité.
 
 Chaque projet est conçu pour :
@@ -11,7 +11,7 @@ Chaque projet est conçu pour :
 
 ---
 
-## 🎯 Objectifs pédagogiques
+##  Objectifs pédagogiques
 - Comprendre les bases et concepts avancés de la programmation
 - Apprendre à structurer un projet informatique correctement
 - Utiliser les bonnes pratiques de développement
@@ -20,7 +20,7 @@ Chaque projet est conçu pour :
 
 ---
 
-## 🧠 Domaines abordés
+##  Domaines abordés
 - Programmation générale
 - Algorithmique
 - Cybersécurité
@@ -31,16 +31,20 @@ Chaque projet est conçu pour :
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 Selon les projets :
 - **Python**
 - **C**
+- C++
+- Java
+- Rust
+- Assembleur
 - **HTML / CSS**
 - **JavaScript**
+- Mysql
 - **Arduino / ESP32**
 - Outils Linux
 - Git & GitHub
 
 ---
 
-## 📁 Organisation du dépôt
