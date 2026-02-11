@@ -19,7 +19,7 @@ Lister les objectifs du projet :
 
 ### 1.3 Périmètre
 **Inclus :**
-- Fonctionnalités prises en charge
+- Fonctionnalités prises en charges
 
 **Exclus :**
 - Fonctionnalités hors projet
